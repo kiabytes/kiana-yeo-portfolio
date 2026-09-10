@@ -542,6 +542,21 @@ textarea {
     margin-bottom: 12px;
 }
 
+.portfolio-sub-section {
+    grid-column: 1 / -1;
+    background-color: #A6B59F;
+    padding: 5px 32px;
+    border-radius: 16px;
+    margin: -40px 0 30px;
+}
+
+.portfolio-sub-section h2 {
+    margin: 0;
+    font-size: 25px;
+    font-weight: 700;
+    color: #252525;
+}
+
 /* Portfolio page heading only */
 .portfolio .section-heading {
     text-align: center;
